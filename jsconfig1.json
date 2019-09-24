@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "UserName": "Ivan Petrovich",
+    "Deposit": 100000,
+    "Withdraw": 10000,
+    "GetCurrnetBalance": 5000
+  },
+  {
+    "Id": 2,
+    "UserName": "Sergej Volkov",
+    "Deposit": 125000,
+    "Withdraw": 100000,
+    "GetCurrentBalance": 10000
+
+  },
+  {
+    "Id": 3,
+    "UserName": "Sergej Volkov",
+    "Deposit": 1000000,
+    "Withdraw": 500,
+    "GetCurrentBalance": 1000000
+  }
+]

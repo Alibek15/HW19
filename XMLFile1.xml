@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data.BAnk>
+  <Bank>
+    <id>
+      1
+    </id>
+    <userName>
+      Ivan Petrovich
+    </userName>
+    <deposit>
+      10000
+    </deposit>
+    <withdraw>
+      999
+    </withdraw>
+    <getCurrentBalance>
+      15000
+    </getCurrentBalance>
+
+  </Bank>
+  <Bank>
+    <id>
+      2
+    </id>
+    <userName>
+      Petr Ivanov
+    </userName>
+    <deposit>
+      140000
+    </deposit>
+    <withdraw>
+      10000
+    </withdraw>
+    <getCurrentBalance>
+      15000
+    </getCurrentBalance>
+
+  </Bank>
+  <Bank>
+    <id>
+      3
+    </id>
+    <userName>
+      Sergej Fedorov
+    </userName>
+    <deposit>
+      100
+    </deposit>
+    <withdraw>
+      145
+    </withdraw>
+    <getCurrentBalance>
+      1588
+    </getCurrentBalance>
+
+  </Bank>
+
+</Data.BAnk>
+
+
+
